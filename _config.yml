@@ -1,0 +1,23 @@
+name: OrgXcelii
+favicon: null
+layout_spectrum: 0.7045341795310378
+typography_spectrum: 0.752002330031246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8162087732926011
+  lightness: 0.2596383257769048
+  saturation: 0.32898981031030416
+  rhythmicContrast: 0.6373369400389493
+purpose: []
